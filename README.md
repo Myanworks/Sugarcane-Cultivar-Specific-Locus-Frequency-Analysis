@@ -4,7 +4,8 @@ This repository contains two Perl scripts for analyzing homozygous specific loci
 
 ## Script Descriptions
 
-1. find.homozygous.pl
+### 1. find.homozygous.pl
+   
 Function: Identify homozygous specific loci of *Saccharum officinarum* (tropical sugarcane) and *Saccharum spontaneum* (wild sugarcane), and determine the ancestral origin of each locus.  
 
 Input Files:  
@@ -22,7 +23,8 @@ Usage:
 perl 1.find.homozygous.pl <Tropical_AF_File> <S_spontaneum_AF_File> <GWAS_File> <Output_File>
 
 
-**### 2. extract_zaipei.freq.pl**
+### 2. extract_zaipei.freq.pl
+
 Function: Extract genotype frequency distribution of homozygous specific loci in cultivated sugarcane varieties based on a list of specific loci.Input Files:
 Specific locus file (must include CHR, POS, P_value, Origin columns)
 
