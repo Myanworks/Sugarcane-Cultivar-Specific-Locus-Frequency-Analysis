@@ -6,7 +6,7 @@ This repository contains two Perl scripts for analyzing homozygous specific loci
 
 ### 1. find.homozygous.pl
    
-Function: Identify homozygous specific loci of *Saccharum officinarum* (tropical sugarcane) and *Saccharum spontaneum* (wild sugarcane), and determine the ancestral origin of each locus.  
+Function: Identify homozygous specific loci of *Saccharum officinarum*  and *Saccharum spontaneum* , and determine the ancestral origin of each locus.  
 
 Input Files:  
 
